@@ -1,1 +1,1 @@
-# golang-first-proje
+# new-go-proje
